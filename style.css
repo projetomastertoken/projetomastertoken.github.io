@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(183, 255, 255);
+}
+
+
+
+#site-tittle {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.campo {
+    align-content: center;
+}
+
+#resultado {
+    text-align: center;
+}
+
+#preco {
+margin: 5px;
+}
+
+#quantidade {
+margin: 5px;
+}
